@@ -1,9 +1,3 @@
-/*
-*  Author @Dasari srinivas
-*  Email : dasarisrinivas7842@gmail.com
-*/ 
-
-
 
 // DOM things.
 const generate_new=document.getElementById("new-array"); // generate button.
